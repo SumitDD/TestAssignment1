@@ -34,9 +34,15 @@
 
 ### Two katas ###
 
+#### FAHRENHEIT-TO-CELCIUS CONVERTER ####
+
 Use BDD to create a fahrenheit-to-celsius converter.
 
 Use BDD to extend it to a celcius-to-fahrenheit converter.
+
+#### ROMAN NUMERAL KATA ####
+
+Implement an “Arabic numeral to roman numeral” converter using BDD
 
 ### GIVE YOUR THOUGHTS ON BDD ###
 
