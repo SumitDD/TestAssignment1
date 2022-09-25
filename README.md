@@ -20,7 +20,7 @@ The man is immortal he can not be killed
 
 2. ALIEN
 
-Markup : Step 1: First grab the toothpaste from the holder
+- Step 1: First grab the toothpaste from the holder
 Step 2: Screw of the cap counterclockwise direction til the cap comes completely off
 Step 3: Next figure out which hand is your preferable hand to use
 Step 4: With your preferable hand grab the toothbrush from the holder by the shaft so that the bristles are pointing upwards 
