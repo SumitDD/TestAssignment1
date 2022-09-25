@@ -4,9 +4,9 @@
 
 * Sumit Dey, cph-sd152@cphbusiness.dk
 
-#### Reflections ####
+### Reflections ###
 
-### 1. SHOOTING ### 
+#### 1. SHOOTING #### 
 - She didn't hit him
 - The shot was nonfatal(Hand, foot)
 - The gun wasn't powerful
@@ -18,7 +18,7 @@
 - She shot at the mans reflection in a mirror
 - The man is immortal he can not be killed
 
-### 2. ALIEN ###
+#### 2. ALIEN ####
 
 - Step 1: First grab the toothpaste from the holder
 - Step 2: Screw of the cap counterclockwise direction til the cap comes completely off
