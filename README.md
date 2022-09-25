@@ -7,16 +7,16 @@
 #### Reflections ####
 
 1. SHOOTING 
-She didn't hit him
-The shot was nonfatal(Hand, foot)
-The gun wasn't powerful
-The man was too far away
-The gun malfunctioned
-It was a toy gun
-He was already dead
-He had a bullet-proof vest on
-She shot at the mans reflection in a mirror
-The man is immortal he can not be killed
+- She didn't hit him
+- The shot was nonfatal(Hand, foot)
+- The gun wasn't powerful
+- The man was too far away
+- The gun malfunctioned
+- It was a toy gun
+- He was already dead
+- He had a bullet-proof vest on
+- She shot at the mans reflection in a mirror
+- The man is immortal he can not be killed
 
 2. ALIEN
 
