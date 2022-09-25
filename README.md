@@ -32,10 +32,9 @@
 - Step 10: Rinse your mouth with water and spit out any toothpaste residue left in your mouth
 - Step 11: Rinse the toothbrush bristles thoroughly and place in back in the holder
 
-Two katas
+### Two katas ###
 
 Use BDD to create a fahrenheit-to-celsius converter.
-Given 
 
 Use BDD to extend it to a celcius-to-fahrenheit converter.
 
